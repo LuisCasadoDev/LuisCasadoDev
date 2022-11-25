@@ -52,6 +52,6 @@ _____
 
 ### Contacto
 
-* [:e-mail: Email](luis.c.dev@outlook.com)
-* [:new: LinkedIn](linkedin.com/in/luis-casado-cordovilla-6094b9258)
+* :e-mail: luis.c.dev@outlook.com
+* [:new: Links](https://linktr.ee/luiscasadodev)
 _____
